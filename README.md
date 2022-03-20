@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on enthusiastic people
 - 🤔 I’m looking for good learning tutorial 
 - 💬 Ask me about Android
-- 📫 How to reach me: mailto:mrmezan06@gmail.com
+- 📫 How to reach me: mrmezan06@gmail.com
 - ⚡ Fun fact: I love to watch movie and tv series (Most preferable Sci-fi)
 
