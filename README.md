@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter & Android
-- 🌱 I’m currently learning Flutter Application Development
+- 🔭 I’m currently working on Laravel and PHP
+- 🌱 I’m currently learning Laravel Web Development
 - 👯 I’m looking to collaborate on enthusiastic people
 - 🤔 I’m looking for good learning tutorial 
 - 💬 Ask me about Android
