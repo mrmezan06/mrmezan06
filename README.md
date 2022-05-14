@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrmezan06@gmail.com
 - ⚡ Fun fact: I love to watch movie and tv series (Most preferable Sci-fi)
 - ![Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&count_private=true)
+- ![[Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&show_icons=true&theme=radical)
 
