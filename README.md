@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Android
 - 📫 How to reach me: mrmezan06@gmail.com
 - ⚡ Fun fact: I love to watch movie and tv series (Most preferable Sci-fi)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06)](https://github.com/anuraghazra/github-readme-stats)
 
