@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <!-- - ![[Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&count_private=true&show_icons=true&theme=radical) -->
 - ![Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&count_private=true&theme=dracula&show_icons=true&title_color=FF4949&icon_color=FF8D29&border_radius=14.9&border_color=FFCD38&custom_title=Stats+of+Mejanur+Rahman)
 <!-- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook,swift&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/anuraghazra/github-readme-stats) -->
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/anuraghazra/github-readme-stats)
 
