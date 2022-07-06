@@ -7,7 +7,7 @@
 ### About me :eyes:
 
 - Student | KUET | Khulna, Bagladesh
-- :dart: Android | Flutter | Web | PHP | Laravel | JAVA | C# | C++ | Dart | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase    
+- :dart: Android | Flutter | PHP | Laravel | JAVA | C# | C++ | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase    
 - :e-mail: Ask me about anything : **mrmezan06@gmail.com**
 
 ## My Stats
