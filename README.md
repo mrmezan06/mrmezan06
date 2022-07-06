@@ -50,7 +50,7 @@
 [![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
 
 [![Android](https://img.shields.io/badge/-Android-04bf7b?style=flat&logo=android&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=0c2eed&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
+[![Flutter](https://img.shields.io/badge/-Flutter-grey?style=flat&logo=flutter&logoColor=079beb&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
 
 
 [![Postman](https://img.shields.io/badge/-Postman-3d3502?style=flat&logo=postman&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
