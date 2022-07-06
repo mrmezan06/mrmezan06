@@ -26,12 +26,14 @@
 ![Profile views](https://gpvc.arturio.dev/mrmezan06)
 
 ### Languages and Tools :computer:
-* Programming Language
+#### Programming Language
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/mrmezan06) 
 [![Dart](https://img.shields.io/badge/-dart-0a186b?style=flat&logo=dart&logoColor=ffffff)](https://github.com/mrmezan06) 
 [![C#](https://img.shields.io/badge/-C%23-0a186b?style=flat&logo=C#&logoColor=ffffff)](https://github.com/mrmezan06) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)
+[![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 
 #### Web Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
