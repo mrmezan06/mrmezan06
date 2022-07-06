@@ -31,6 +31,8 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/mrmezan06) 
 [![Dart](https://img.shields.io/badge/-dart-0a186b?style=flat&logo=dart&logoColor=ffffff)](https://github.com/mrmezan06) 
+[![C#](https://img.shields.io/badge/-C%23-0a186b?style=flat&logo=C#&logoColor=ffffff)](https://github.com/mrmezan06) 
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
@@ -39,6 +41,7 @@
 [![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 ![Laravel](https://img.shields.io/badge/-Laravel-e30535?style=flat&logo=laravel&link=https://github.com/mrmezan06)
 ![ReactJS](https://img.shields.io/badge/-React-gray?style=flat&logo=React&link=https://github.com/mrmezan06)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-black?style=flat&logo=.net&logoColor=8e09e0&link=https://github.com/mrmezan06)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=blue&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 [![Oracle](https://img.shields.io/badge/-Oracle-orange?style=flat&logo=mysql&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
