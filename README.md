@@ -67,3 +67,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/mrmezan06)](https://gitlab.com/mrmezan06)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=blue&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
+
+#### Learning Source
+[Design Resource](https://github.com/mrmezan06/design-resources-for-developers#downloadable-design-software)
