@@ -70,3 +70,5 @@
 
 #### Learning Source
 [Design Resource](https://github.com/mrmezan06/design-resources-for-developers#downloadable-design-software)
+[Free Books](https://github.com/mrmezan06/free-programming-books/blob/master/free-programming-books.md)
+[Python Books](https://github.com/mrmezan06/free-python-books)
