@@ -69,6 +69,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=blue&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
 
 #### Learning Source
-[Design Resource](https://github.com/mrmezan06/design-resources-for-developers#downloadable-design-software)
-[Free Books](https://github.com/mrmezan06/free-programming-books/blob/master/free-programming-books.md)
-[Python Books](https://github.com/mrmezan06/free-python-books)
+* [Design Resource](https://github.com/mrmezan06/design-resources-for-developers#downloadable-design-software)
+* [Free Books](https://github.com/mrmezan06/free-programming-books/blob/master/free-programming-books.md)
+* [Python Books](https://github.com/mrmezan06/free-python-books)
