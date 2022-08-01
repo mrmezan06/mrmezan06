@@ -9,7 +9,7 @@
 - Student | KUET | Khulna, Bagladesh
 - :dart: Android | Flutter | PHP | Laravel | JAVA | C# | C++ | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase    
 - :e-mail: Ask me about anything : **mrmezan06@gmail.com**
-- :website: [HtmlCssJavascriptDesign](https://akash07105.netlify.app/)
+- :web: [HtmlCssJavascriptDesign](https://akash07105.netlify.app/)
 
 ## My Stats
 [![Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&theme=merko)](https://github.com/mrmezan06/github-readme-stats&?theme=dark)
