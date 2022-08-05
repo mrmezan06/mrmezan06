@@ -14,6 +14,7 @@
   - 🖥️: [Krypto](https://krypto-ether.netlify.app/)
   - 🖥️: [ReactDashboard](https://akash-dashboard.netlify.app/)
   - 🖥️: [Portfolio](https://mrmezan06.github.io)
+  - 🖥️: [Portfoli-Mezan](https://portfolio-mezan.ink)
 
 ## My Stats
 [![Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&theme=merko)](https://github.com/mrmezan06/github-readme-stats&?theme=dark)
