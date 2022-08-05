@@ -76,7 +76,8 @@
 #### Learning Source
 * [Design Resource](https://github.com/mrmezan06/design-resources-for-developers#downloadable-design-software)
 * [Free Books](https://github.com/mrmezan06/free-programming-books/blob/master/free-programming-books.md)
-* [Python Books](https://github.com/mrmezan06/free-python-books)
+* [P
 * [Coding Interview](https://github.com/mrmezan06/coding-interview-university)
-* [Resources](
-https://github.com/mrmezan06/all-resources-in-here)
+* [Resources](https://github.com/mrmezan06/all-resources-in-here)
+
+* [Developer Road Map](https://github.com/mrmezan06/developer-roadmap)
