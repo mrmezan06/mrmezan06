@@ -10,7 +10,7 @@
 - :dart: Android | Flutter | PHP | Laravel | JAVA | C# | C++ | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase    
 - :e-mail: Ask me about anything : **mrmezan06@gmail.com**
 - Website:
-  - 🖥️: [HtmlCssJavascriptDesign](https://akash07105.netlify.app/)
+  - 🖥️: [Showcase](https://akash07105.netlify.app/)
   - 🖥️: [Krypto](https://krypto-ether.netlify.app/)
   - 🖥️: [ReactDashboard](https://akash-dashboard.netlify.app/)
   - 🖥️: [Portfolio](https://mrmezan06.github.io)
