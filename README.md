@@ -78,3 +78,5 @@
 * [Free Books](https://github.com/mrmezan06/free-programming-books/blob/master/free-programming-books.md)
 * [Python Books](https://github.com/mrmezan06/free-python-books)
 * [Coding Interview](https://github.com/mrmezan06/coding-interview-university)
+* [Resources](
+https://github.com/mrmezan06/all-resources-in-here)
