@@ -28,7 +28,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko" alt="MejanurRahman"  /> 
 
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mrmezan06&theme=github" alt="MejanurRahman" /></p> 
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mrmezan06&theme=github" alt="MejanurRahman" /></p>
+&nbsp;
+
+## Profile Summary
+<img width='100%' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmezan06&theme=vue" />
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/anuraghazra/github-readme-stats)
