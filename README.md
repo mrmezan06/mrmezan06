@@ -91,3 +91,4 @@
 * [Resources](https://github.com/mrmezan06/all-resources-in-here)
 
 * [Developer Road Map](https://github.com/mrmezan06/developer-roadmap)
+* [x] [Badges List](https://github.com/mrmezan06/Badges4-README.md-Profile)
