@@ -2,19 +2,23 @@
 
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
 
-[![Twitter Badge](https://img.shields.io/badge/-@MejanurRahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MejanurMezan)](https://twitter.com/MejanurMezan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MejanurRahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mejanur-rahman-061998/)](https://www.linkedin.com/in/mejanur-rahman-061998/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@MejanurRahman-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/mrmezan06)](https://www.hackerrank.com/mrmezan06)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-mrmezan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrmezan06@gmail.com)](mailto:mrmezan06@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Portfolio Badge](https://img.shields.io/badge/-ShowCaseWebSite-orange?style=flat-square&logo=html5&logoColor=white&link=https://akash07105.netlify.app)](https://akash07105.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-@MejanurRahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MejanurMezan)](https://twitter.com/MejanurMezan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MejanurRahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mejanur-rahman-061998/)](https://www.linkedin.com/in/mejanur-rahman-061998/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@MejanurRahman-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/mrmezan06)](https://www.hackerrank.com/mrmezan06)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-mrmezan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrmezan06@gmail.com)](mailto:mrmezan06@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+### Website
+- [![Portfolio Badge](https://img.shields.io/badge/-ShowCaseWebSite-orange?style=flat-square&logo=html5&logoColor=white&link=https://akash07105.netlify.app)](https://akash07105.netlify.app)
+- [![Portfolio Badge](https://img.shields.io/badge/-Krypto-blue?style=flat-square&logo=React&logoColor=white&link=https://krypto-ether.netlify.app/)](https://krypto-ether.netlify.app/)
+- [![Portfolio Badge](https://img.shields.io/badge/-Dashboard-green?style=flat-square&logo=React&logoColor=white&link=https://akash-dashboard.netlify.app/)](https://akash-dashboard.netlify.app/) 
+- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=Javascript&logoColor=white&link=https://portfolio-mezan.ink)](https://portfolio-mezan.ink)
+- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=HTML5&logoColor=white&link=https://mrmezan06.github.io)](https://mrmezan06.github.io)
+
 
 ### About me :eyes:
 
 - Student | KUET | Khulna, Bagladesh
 - :dart: Android | Flutter | PHP | Laravel | JAVA | C# | C++ | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase    
 - :e-mail: Ask me about anything : **mrmezan06@gmail.com**
-- Website:
-  - 🖥️: [Showcase](https://akash07105.netlify.app/)
-  - 🖥️: [Krypto](https://krypto-ether.netlify.app/)
-  - 🖥️: [ReactDashboard](https://akash-dashboard.netlify.app/)
-  - 🖥️: [Portfoli-Mezan](https://portfolio-mezan.ink)
-  - 🖥️: [Portfolio](https://mrmezan06.github.io)
+#### Portfolio Website:
+🖥️: [Portfolio](https://portfolio-mezan.ink)
+
   
 
 ## My Stats
