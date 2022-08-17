@@ -47,38 +47,38 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/mrmezan06?tab=repositories&q=&type=&language=python&sort=)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=python&sort=) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=java&sort=) 
 [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=c%2B%2B&sort=) 
-[![Dart](https://img.shields.io/badge/-dart-0a186b?style=flat&logo=dart&logoColor=ffffff)](https://github.com/mrmezan06) 
-[![C#](https://img.shields.io/badge/-C%23-0a186b?style=flat&logo=C#&logoColor=ffffff)](https://github.com/mrmezan06) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)
-[![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
+[![Dart](https://img.shields.io/badge/-dart-0a186b?style=flat&logo=dart&logoColor=ffffff)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=dart&sort=) 
+[![C#](https://img.shields.io/badge/-C%23-0a186b?style=flat&logo=C#&logoColor=ffffff)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=c%23&sort=) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)(https://github.com/mrmezan06?tab=repositories&q=&type=&language=javascript&sort=)
+[![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=php&sort=)
 
 #### Web Development
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&logoColor=c906c9&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)
-[![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-![Laravel](https://img.shields.io/badge/-Laravel-e30535?style=flat&logo=laravel&link=https://github.com/mrmezan06)
-![ReactJS](https://img.shields.io/badge/-React-gray?style=flat&logo=React&link=https://github.com/mrmezan06)
-![ASP.Net](https://img.shields.io/badge/-ASP.Net-black?style=flat&logo=.net&logoColor=8e09e0&link=https://github.com/mrmezan06)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=html&sort=)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=css&sort=) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap&logoColor=c906c9&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=html&sort=)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)(https://github.com/mrmezan06?tab=repositories&q=&type=&language=javascript&sort=)
+[![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=php&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=php&sort=)
+![Laravel](https://img.shields.io/badge/-Laravel-e30535?style=flat&logo=laravel&link=https://github.com/mrmezan06)(https://github.com/mrmezan06?tab=repositories&q=&type=&language=php&sort=)
+![ReactJS](https://img.shields.io/badge/-React-gray?style=flat&logo=React&link=https://github.com/mrmezan06)(https://github.com/mrmezan06?tab=repositories&q=&type=&language=javascript&sort=)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-black?style=flat&logo=.net&logoColor=8e09e0&link=https://github.com/mrmezan06)(https://github.com/mrmezan06?tab=repositories&q=&type=&language=c%23&sort=)
 
 #### Database
-[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=blue&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-[![Oracle](https://img.shields.io/badge/-Oracle-orange?style=flat&logo=mysql&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-[![Firebase](https://img.shields.io/badge/-Firebase-3d3502?style=flat&logo=firebase&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
+[![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=blue&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=&sort=)
+[![Oracle](https://img.shields.io/badge/-Oracle-orange?style=flat&logo=mysql&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=&sort=)
+[![Firebase](https://img.shields.io/badge/-Firebase-3d3502?style=flat&logo=firebase&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=&sort=) 
 
 #### AI & Machine Learning
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=jupyter+notebook&sort=) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=jupyter+notebook&sort=)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=jupyter+notebook&sort=) 
+[![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=jupyter+notebook&sort=) 
 
 #### App Development
-[![Android](https://img.shields.io/badge/-Android-04bf7b?style=flat&logo=android&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![Flutter](https://img.shields.io/badge/-Flutter-grey?style=flat&logo=flutter&logoColor=079beb&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
+[![Android](https://img.shields.io/badge/-Android-04bf7b?style=flat&logo=android&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=java&sort=) 
+[![Flutter](https://img.shields.io/badge/-Flutter-grey?style=flat&logo=flutter&logoColor=079beb&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=dart&sort=) 
 
 #### API Testing
-[![Postman](https://img.shields.io/badge/-Postman-3d3502?style=flat&logo=postman&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
+[![Postman](https://img.shields.io/badge/-Postman-3d3502?style=flat&logo=postman&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=&sort=) 
 
 #### Version Control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mrmezan06)](https://github.com/mrmezan06)
