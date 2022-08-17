@@ -44,9 +44,9 @@
 
 ### Languages and Tools :computer:
 #### Programming Language
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06) 
-[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/mrmezan06) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/mrmezan06?tab=repositories&q=&type=&language=python&sort=)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=python&sort=) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/mrmezan06)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=java&sort=) 
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/mrmezan06?tab=repositories&q=&type=&language=c%2B%2B&sort=) 
 [![Dart](https://img.shields.io/badge/-dart-0a186b?style=flat&logo=dart&logoColor=ffffff)](https://github.com/mrmezan06) 
 [![C#](https://img.shields.io/badge/-C%23-0a186b?style=flat&logo=C#&logoColor=ffffff)](https://github.com/mrmezan06) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=javascript&link=https://github.com/mrmezan06)
