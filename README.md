@@ -11,6 +11,7 @@
 - [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=HTML5&logoColor=white&link=https://mrmezan06.github.io)](https://mrmezan06.github.io)
 - [![Portfolio Badge](https://img.shields.io/badge/-Doctor_Appointment-orange?style=flat-square&logo=React&logoColor=white&link=https://doctor-call-healthy.herokuapp.com/)](https://doctor-call-healthy.herokuapp.com/)
 - [![Portfolio Badge](https://img.shields.io/badge/-MUI_Tailwind_Design-green?style=flat-square&logo=React&logoColor=white&link=https://mui-tailwind-design.netlify.app)](https://mui-tailwind-design.netlify.app)
+- [![Portfolio Badge](https://img.shields.io/badge/-Al_Quran-orange?style=flat-square&logo=PHP&logoColor=white&link=https://islamic-life.000webhostapp.com/)](https://islamic-life.000webhostapp.com/)
 
 
 ### About me :eyes:
