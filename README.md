@@ -36,19 +36,19 @@
 
 
 ## Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko" alt="MejanurRahman"  /> 
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko" alt="MejanurRahman"  /> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=8)
 
-## Productive Time
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=8) -->
-<p><img style="width:100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=8" alt="Mejanur" /></p>
+
 
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mrmezan06&theme=github" alt="MejanurRahman" /></p>
 &nbsp;
 
-<!-- ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/mrmezan06) -->
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/mrmezan06)
 
 ## Profile View
 ![Profile views](https://gpvc.arturio.dev/mrmezan06)
