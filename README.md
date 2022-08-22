@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90EE9000&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://github.com/mrmezan06)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90EE9000&size=40&width=800&duration=6969&lines=🥀+Welcome+to+my+profile!)](https://github.com/mrmezan06)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04cc00&size=40&width=800&duration=6969&lines=🤷‍+Mejanur+Rahman+Mezan+👨‍💻)](https://www.linkedin.com/in/mejanur-rahman-061998/)
 
