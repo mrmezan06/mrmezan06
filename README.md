@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04cc00&size=40&width=800&duration=6969&lines=🤷‍+Mejanur+Rahman+Mezan+👨‍💻)](https://www.linkedin.com/in/mejanur-rahman-061998/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%10e39900&size=40&width=800&duration=6969&lines=👨‍💻+A+Full+Stack+Web+Developer+👨‍💻)](https://github.com/mrmezan06)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%10e39900&size=40&width=800&duration=6969&lines=💻+A+Full+Stack+Web+Developer+👨‍)](https://github.com/mrmezan06)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90E4D055&size=40&width=800&duration=6969&lines=👨‍💻+An+Android+Developer+👨‍💻)](https://github.com/mrmezan06)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90E4D055&size=40&width=800&duration=6969&lines=👨‍+An+Android+Developer+💻)](https://github.com/mrmezan06)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%8feb3400&size=40&width=800&duration=6969&lines=🎓+Computer+Science﹠Engineering+🎓)](http://www.kuet.ac.bd)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%8feb3400&size=40&width=800&duration=6969&lines=Computer+Science﹠Engineering)](http://www.kuet.ac.bd)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04ccff&size=40&width=800&duration=6969&lines=🎓+FROM+KUET+🎓)](http://www.kuet.ac.bd)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04ccff&size=40&width=800&duration=6969&lines=🎓+From+KUET+🎓)](http://www.kuet.ac.bd)
 
 <!-- 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)**  -->
 
