@@ -24,7 +24,7 @@
 🖥️: [Portfolio](https://portfolio-mezan.ink)
 
 ## Profile Summary
-<img width='100%' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmezan06&theme=vue" />
+<img width='100%' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmezan06&theme=radical" />
 
 ## My Stats
 [![Mejanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmezan06&theme=merko)](https://github.com/mrmezan06)
@@ -94,3 +94,4 @@
 
 * [Developer Road Map](https://github.com/mrmezan06/developer-roadmap)
 - :heavy_check_mark: [Badges List](https://github.com/mrmezan06/Badges4-README.md-Profile)
+- [x] [Github Profile Summary Cards Design](https://github-profile-summary-cards.vercel.app/)
