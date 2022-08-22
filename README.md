@@ -45,7 +45,9 @@
 ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrmezan06&theme=radical)
 
 ## Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/mrmezan06)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&theme=github_dark&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/mrmezan06)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&theme=github_dark&layout=compact&hide_border=true" /></a> -->
 
 
 ## Streak Stats
