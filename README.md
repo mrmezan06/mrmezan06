@@ -1,6 +1,16 @@
-### 🤷‍♂️ **[Mejanur Rahman Mezan](https://www.linkedin.com/in/mejanur-rahman-061998/)** 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90EE9000&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://github.com/mrmezan06)
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04cc00&size=40&width=800&duration=6969&lines=🤷‍+Mejanur+Rahman+Mezan+👨‍💻)](https://www.linkedin.com/in/mejanur-rahman-061998/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%10e39900&size=40&width=800&duration=6969&lines=👨‍💻+A+Full+Stack+Web+Developer+👨‍💻)](https://github.com/mrmezan06)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%90E4D055&size=40&width=800&duration=6969&lines=👨‍💻+An+Android+Developer+👨‍💻)](https://github.com/mrmezan06)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%8feb3400&size=40&width=800&duration=6969&lines=🎓+Computer+Science﹠Engineering+🎓)](http://www.kuet.ac.bd)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04ccff&size=40&width=800&duration=6969&lines=🎓+FROM+KUET+🎓)](http://www.kuet.ac.bd)
+
+<!-- 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)**  -->
 
 [![Twitter Badge](https://img.shields.io/badge/-@MejanurRahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MejanurMezan)](https://twitter.com/MejanurMezan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MejanurRahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mejanur-rahman-061998/)](https://www.linkedin.com/in/mejanur-rahman-061998/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@MejanurRahman-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/mrmezan06)](https://www.hackerrank.com/mrmezan06)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-mrmezan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrmezan06@gmail.com)](mailto:mrmezan06@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 ### Website
@@ -33,15 +43,13 @@
 ## Top Languages
 ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrmezan06&theme=radical)
 ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrmezan06&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmezan06&hide=QML,Jupyter%20Notebook&langs_count=15&layout=compact&card_width=445&border_radius=14.9)](https://github.com/mrmezan06)
 
 
 ## Streak Stats
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko" alt="MejanurRahman"  /> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=8)
-
-
-
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mrmezan06&theme=github" alt="MejanurRahman" /></p>
