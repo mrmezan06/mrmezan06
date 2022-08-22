@@ -47,7 +47,7 @@
 ## Streak Stats
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko" alt="MejanurRahman"  /> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrmezan06&theme=merko)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrmezan06&theme=radical&utcOffset=6)
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=mrmezan06&theme=github" alt="MejanurRahman" /></p>
