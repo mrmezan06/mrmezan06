@@ -35,7 +35,8 @@
 [![Doctor Appointment](https://img.shields.io/badge/-Doctor%20Appointment-blue?logo=React&logoColor=%2361DAFB)](https://doctor-call-healthy.herokuapp.com/)
 [![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](https://islamic-life.000webhostapp.com/)
-[![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](http://bookszone.top/)
+
+<!-- [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](http://bookszone.top/) -->
 <br />
 
 ## Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
