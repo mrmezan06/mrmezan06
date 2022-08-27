@@ -6,10 +6,11 @@
 
 # Graduation ![](https://img.shields.io/badge/KUET-orange)
 
-[![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
-[![](https://img.shields.io/badge/Department-CSE-blueviolet?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
-[![](https://img.shields.io/badge/Graduation-2022-blue?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
-[![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Department-CSE-blueviolet)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Graduation-2022-blue)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Status-Running-red?&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
+![](https://img.shields.io/badge/Khulna-Bangladesh-red)
 
 # Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
@@ -31,10 +32,6 @@
 [![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](https://islamic-life.000webhostapp.com/)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](http://bookszone.top/)
-
-# About me :eyes:
-
-![](https://img.shields.io/badge/Student-KUET-blue) ![](https://img.shields.io/badge/Khulna-Bangladesh-red)
 
 # Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
 
