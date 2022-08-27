@@ -77,9 +77,9 @@
 ![](https://img.shields.io/badge/React-gray?logo=React&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Node.js-gray?logo=node.js&logoColor=%2343853D)
 
-## Portfolio Website:
+## Portfolio ![Portfolio](https://img.shields.io/badge/Server-Running-brightgreen)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Running-brightgreen)](https://portfolio-mezan.ink)
+[![Portfolio](https://img.shields.io/badge/Host-My%20Portfolio-brightgreen)](https://portfolio-mezan.ink)
 
 ## Profile Summary
 
