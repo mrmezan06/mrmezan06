@@ -4,14 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%16ba0dff&size=40&width=800&duration=6969&lines=💻+A+Full+Stack+Web+Developer+👨‍)](https://github.com/mrmezan06)
 
-## Graduation ![](https://img.shields.io/badge/KUET-orange)
+# Graduation ![](https://img.shields.io/badge/KUET-orange)
 
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Graduation-2022-blue?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
 
-## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
+# Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mejanur.mezan.3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mejanur.mezan.3)
@@ -20,7 +20,7 @@
 [![Hackerrank](https://img.shields.io/badge/-@Mejanur%20Rahman-%2300EA64?style=for-the-badge&labelColor=%230a360d&logo=hackerrank)](https://www.hackerrank.com/mrmezan06) &nbsp;
 [![Gmail](https://img.shields.io/badge/-mrmezan06@gmail.com-%23591408?style=for-the-badge&logo=Gmail&logoColor=%23EA4335)](mailto:mrmezan06@gmail.com)&nbsp;
 
-### Website ![](https://img.shields.io/badge/Server-Live-brightgreen)
+# Website ![](https://img.shields.io/badge/Server-Live-brightgreen)
 
 [![Show Case Website](https://img.shields.io/badge/-Show%20Case%20WebSite-%23611407?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://akash07105.netlify.app)
 [![Krypto](https://img.shields.io/badge/-Krypto-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://krypto-ether.netlify.app/)
@@ -32,11 +32,11 @@
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](https://islamic-life.000webhostapp.com/)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](http://bookszone.top/)
 
-### About me :eyes:
+# About me :eyes:
 
 ![](https://img.shields.io/badge/Student-KUET-blue) ![](https://img.shields.io/badge/Khulna-Bangladesh-red)
 
-### Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
+# Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
 
 ![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -60,7 +60,7 @@
 ![](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/MongoDb-%23117AC9?style=for-the-badge&logo=mongodb&logoColor=green)
 
-#### Portfolio Website:
+# Portfolio Website:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Running-brightgreen)](https://portfolio-mezan.ink)
 
