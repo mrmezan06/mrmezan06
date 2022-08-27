@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Graduation-2022-blue?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
-![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage) &nbsp;
+[![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
 
 ## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
@@ -34,9 +34,31 @@
 
 ### About me :eyes:
 
-- Student | KUET | Khulna, Bagladesh
-- :dart: Android | Flutter | PHP | Laravel | JAVA | C# | C++ | HTML | CSS | JavaScript | MySQL | ASP.net | React.JS | Firebase
-- :e-mail: Ask me about anything : **mrmezan06@gmail.com**
+- [x] ![](https://img.shields.io/badge/Student-KUET-blue) ![](https://img.shields.io/badge/Khulna-Bangladesh-red)
+
+### Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
+
+![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-darkred?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
+![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=android)
+![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK)
+![](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+![](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=Dart)
+![](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+![](https://img.shields.io/badge/ASP.net-%23512BD4?style=for-the-badge&logo=.net)
+![](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=C%20Sharp)
+![](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
+![](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=%2343853D)
+![](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDb-%23117AC9?style=for-the-badge&logo=mongodb&logoColor=green)
 
 #### Portfolio Website:
 
