@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%16ba0dff&size=40&width=800&duration=6969&lines=💻+A+Full+Stack+Web+Developer+👨‍)](https://github.com/mrmezan06)
 
-## Graduation ![](https://img.shields.io/badge/KUET-orange?style=for-the-badge)
+## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
 ![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage) &nbsp;
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
