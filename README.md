@@ -2,8 +2,6 @@
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
-<br />
-
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Graduation-2022-blue)](https://www.kuet.ac.bd) &nbsp;
