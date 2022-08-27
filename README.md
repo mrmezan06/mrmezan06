@@ -6,10 +6,10 @@
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
-![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage) &nbsp;
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
-[![](https://img.shields.io/badge/Graduation-2022-blue?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Graduation-2022-blue?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
+![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage) &nbsp;
 
 ## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
