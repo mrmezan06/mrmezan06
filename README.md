@@ -23,17 +23,17 @@
 
 ## Website ![](https://img.shields.io/badge/Server-Live-brightgreen)
 
-[![Show Case Website](https://img.shields.io/badge/-Show%20Case%20WebSite-%23611407?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://akash07105.netlify.app)
-[![Krypto](https://img.shields.io/badge/-Krypto-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://krypto-ether.netlify.app/)
-[![React Dashboard](https://img.shields.io/badge/-React%20Dashboard-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://akash-dashboard.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/-JavaScript%20Portfolio-%23757204?style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E)](https://portfolio-mezan.ink)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=HTML5&logoColor=white)](https://mrmezan06.github.io)
-[![Doctor Appointment](https://img.shields.io/badge/-Doctor%20Appointment-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://doctor-call-healthy.herokuapp.com/)
-[![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?style=for-the-badge&logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
-[![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](https://islamic-life.000webhostapp.com/)
-[![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?style=for-the-badge&logo=PHP&logoColor=%23777BB4)](http://bookszone.top/)
+[![Show Case Website](https://img.shields.io/badge/-Show%20Case%20WebSite-%23611407?logo=html5&logoColor=%23E34F26)](https://akash07105.netlify.app)
+[![Krypto](https://img.shields.io/badge/-Krypto-blue?logo=React&logoColor=%2361DAFB)](https://krypto-ether.netlify.app/)
+[![React Dashboard](https://img.shields.io/badge/-React%20Dashboard-blue?logo=React&logoColor=%2361DAFB)](https://akash-dashboard.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-JavaScript%20Portfolio-%23757204?logo=Javascript&logoColor=%23F7DF1E)](https://portfolio-mezan.ink)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=HTML5&logoColor=white)](https://mrmezan06.github.io)
+[![Doctor Appointment](https://img.shields.io/badge/-Doctor%20Appointment-blue?logo=React&logoColor=%2361DAFB)](https://doctor-call-healthy.herokuapp.com/)
+[![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
+[![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?logo=PHP&logoColor=%23777BB4)](https://islamic-life.000webhostapp.com/)
+[![Al Quran](https://img.shields.io/badge/-Al%20Quran-%23032a4a?logo=PHP&logoColor=%23777BB4)](http://bookszone.top/)
 
-# Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
+## Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
 
 ![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
