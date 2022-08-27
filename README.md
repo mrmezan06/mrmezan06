@@ -4,7 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%16ba0dff&size=40&width=800&duration=6969&lines=💻+A+Full+Stack+Web+Developer+👨‍)](https://github.com/mrmezan06)
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)**
+## Graduation ![](https://img.shields.io/badge/Status-Running-red?style=for-the-badge&logo=Statuspage)
+
+[![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen?style=for-the-badge)](http://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Graduation-2022-orange?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
+[![](https://img.shields.io/badge/Department-CSE-blueviolet?style=for-the-badge)](https://www.kuet.ac.bd) &nbsp;
+
+Khulna University of Engineering & Technology
+
+## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mejanur.mezan.3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mejanur.mezan.3)
