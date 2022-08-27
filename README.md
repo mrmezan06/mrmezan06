@@ -48,9 +48,11 @@
 ![](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![](https://img.shields.io/badge/Bootstrap-%23563D7C?logo=bootstrap&logoColor=white)
 <br />
+<br />
 ![](https://img.shields.io/badge/PHP-blueviolet?logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-darkred?logo=laravel&logoColor=white) &nbsp;
 ![](https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white)
+<br />
 <br />
 ![](https://img.shields.io/badge/Android-blue?logo=android)
 ![](https://img.shields.io/badge/Java-orange?logo=OpenJDK)
@@ -58,13 +60,17 @@
 ![](https://img.shields.io/badge/Dart-blue?logo=Dart)
 ![](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 <br />
+<br />
 ![](https://img.shields.io/badge/ASP.net-%23512BD4?logo=.net)
 ![](https://img.shields.io/badge/C%23-%23239120?logo=C%20Sharp)
+<br />
 <br />
 ![](https://img.shields.io/badge/C-blue?logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-blue?logo=C%2B%2B&logoColor=white)
 <br />
+<br />
 ![](https://img.shields.io/badge/Python-orange?logo=Python&logoColor=white)
+<br />
 <br />
 ![](https://img.shields.io/badge/MongoDb-%23117AC9?logo=mongodb&logoColor=green)
 ![](https://img.shields.io/badge/Express.js-%23404d59?logo=express&logoColor=white)
