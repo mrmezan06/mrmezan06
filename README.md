@@ -33,7 +33,7 @@
 
 #### Portfolio Website:
 
-🖥️: [Portfolio](https://portfolio-mezan.ink)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Running-brightgreen)](https://portfolio-mezan.ink)
 
 ## Profile Summary
 
