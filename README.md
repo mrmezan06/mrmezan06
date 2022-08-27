@@ -79,7 +79,7 @@
 
 ## Portfolio ![Portfolio](https://img.shields.io/badge/Server-Running-brightgreen)
 
-[![Portfolio](https://img.shields.io/badge/Host-My%20Portfolio-brightgreen)](https://portfolio-mezan.ink)
+[![Portfolio](https://img.shields.io/badge/Host-My%20Portfolio-brightgreen?style=for-the-badge)](https://portfolio-mezan.ink)
 
 ## Profile Summary
 
