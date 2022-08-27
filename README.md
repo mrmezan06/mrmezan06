@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="https://img.shields.io/badge/Mejanur%20Rahman%20Mezan-brightgreen?style=for-the-badge"/></div>
+<div style="width:100%;text-align:center;"><img src="https://img.shields.io/badge/Mejanur%20Rahman%20Mezan-brightgreen?style=for-the-badge"/></div>
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
