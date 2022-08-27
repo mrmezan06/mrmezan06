@@ -62,7 +62,7 @@
 **Python**
 ![](https://img.shields.io/badge/Python-orange?logo=Python&logoColor=white)
 
-**MERN STACK**
+**MERN STACK** <br />
 ![](https://img.shields.io/badge/MongoDb-%23117AC9?logo=mongodb&logoColor=green)
 ![](https://img.shields.io/badge/Express.js-%23404d59?logo=express&logoColor=white)
 ![](https://img.shields.io/badge/React-gray?logo=React&logoColor=%2361DAFB)
