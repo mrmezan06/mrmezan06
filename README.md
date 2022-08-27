@@ -2,13 +2,18 @@
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
+<br />
+
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Graduation-2022-blue)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Status-Running-red?&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Khulna-Bangladesh-red)](https://www.kuet.ac.bd) &nbsp;
+<br />
 
 ## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
+
+<br />
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white)](https://facebook.com/mejanur.mezan.3)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/mejanur.mezan.3)
@@ -16,8 +21,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mejanur-rahman-061998/) &nbsp;
 [![Hackerrank](https://img.shields.io/badge/-@Mejanur%20Rahman-%2300EA64?labelColor=%230a360d&logo=hackerrank)](https://www.hackerrank.com/mrmezan06) &nbsp;
 [![Gmail](https://img.shields.io/badge/-mrmezan06@gmail.com-%23591408?logo=Gmail&logoColor=%23EA4335)](mailto:mrmezan06@gmail.com)&nbsp;
+<br />
 
 ## Website ![](https://img.shields.io/badge/Server-Live-brightgreen)
+
+<br />
 
 [![Show Case Website](https://img.shields.io/badge/-Show%20Case%20WebSite-%23611407?logo=html5&logoColor=%23E34F26)](https://akash07105.netlify.app)
 [![Krypto](https://img.shields.io/badge/-Krypto-blue?logo=React&logoColor=%2361DAFB)](https://krypto-ether.netlify.app/)
@@ -28,8 +36,11 @@
 [![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](https://islamic-life.000webhostapp.com/)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](http://bookszone.top/)
+<br />
 
 ## Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
+
+<br />
 
 ![](https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-%231572B6?logo=CSS3&logoColor=white)
