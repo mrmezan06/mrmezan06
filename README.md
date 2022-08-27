@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%0e04cc00&size=40&width=800&duration=6969&lines=🤷‍+Mejanur+Rahman+👨‍💻)](https://www.linkedin.com/in/mejanur-rahman-061998/)
+<h1 style="display:flex;align-items:center;justify-content:center;"><img width="50%" src="https://img.shields.io/badge/Mejanur%20Rahman%20Mezan-brightgreen?style=for-the-badge"/></h1>
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
+
+<br />
 
 [![](https://img.shields.io/badge/B.Sc.Eng-KUET-brightgreen)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Department-CSE-blueviolet)](https://www.kuet.ac.bd) &nbsp;
