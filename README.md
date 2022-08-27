@@ -1,4 +1,4 @@
-<div style="width:100%;text-align:center;"><img src="https://img.shields.io/badge/Mejanur%20Rahman%20Mezan-brightgreen?style=for-the-badge"/></div>
+[![](https://img.shields.io/badge/Mejanur%20Rahman%20Mezan-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/mejanur-rahman-061998/)
 
 ## Graduation ![](https://img.shields.io/badge/KUET-orange)
 
@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Department-CSE-blueviolet)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Graduation-2022-blue)](https://www.kuet.ac.bd) &nbsp;
 [![](https://img.shields.io/badge/Status-Running-red?&logo=Statuspage)](https://www.kuet.ac.bd) &nbsp;
-![](https://img.shields.io/badge/Khulna-Bangladesh-red)
+[![](https://img.shields.io/badge/Khulna-Bangladesh-red)](https://www.kuet.ac.bd) &nbsp;
 
 ## Social Media ![](https://img.shields.io/badge/Status-Available-brightgreen?logo=Statuspage)
 
