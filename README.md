@@ -30,10 +30,10 @@
 [![Show Case Website](https://img.shields.io/badge/-Show%20Case%20WebSite-%23611407?logo=html5&logoColor=%23E34F26)](https://akash07105.netlify.app)
 [![Krypto](https://img.shields.io/badge/-Krypto-blue?logo=React&logoColor=%2361DAFB)](https://krypto-ether.netlify.app/)
 [![React Dashboard](https://img.shields.io/badge/-React%20Dashboard-blue?logo=React&logoColor=%2361DAFB)](https://akash-dashboard.netlify.app/)
+[![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
 [![Portfolio](https://img.shields.io/badge/-JavaScript%20Portfolio-gray?logo=Javascript&logoColor=%23F7DF1E)](https://portfolio-mezan.ink)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=HTML5&logoColor=white)](https://mrmezan06.github.io)
-[![Doctor Appointment](https://img.shields.io/badge/-Doctor%20Appointment-blue?logo=React&logoColor=%2361DAFB)](https://doctor-call-healthy.herokuapp.com/)
-[![MUI Design](https://img.shields.io/badge/-MUI%20Tailwind%20Design-blue?logo=React&logoColor=%2361DAFB)](https://mui-tailwind-design.netlify.app)
+[![Doctor Appointment](https://img.shields.io/badge/-Doctor%20Appointment-gray?logo=Node.js&logoColor=green)](https://doctor-call-healthy.herokuapp.com/)
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](https://islamic-life.000webhostapp.com/)
 
 <!-- [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](http://bookszone.top/) -->
