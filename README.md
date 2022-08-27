@@ -34,7 +34,7 @@
 
 ### About me :eyes:
 
-- [x] ![](https://img.shields.io/badge/Student-KUET-blue) ![](https://img.shields.io/badge/Khulna-Bangladesh-red)
+![](https://img.shields.io/badge/Student-KUET-blue) ![](https://img.shields.io/badge/Khulna-Bangladesh-red)
 
 ### Language Expertise ![](https://img.shields.io/badge/Language-Expertise-brightgreen)
 
