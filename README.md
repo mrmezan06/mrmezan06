@@ -6,17 +6,22 @@
 
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)**
 
-[![Twitter Badge](https://img.shields.io/badge/-@MejanurRahman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MejanurMezan)](https://twitter.com/MejanurMezan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MejanurRahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mejanur-rahman-061998/)](https://www.linkedin.com/in/mejanur-rahman-061998/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@MejanurRahman-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/mrmezan06)](https://www.hackerrank.com/mrmezan06)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-mrmezan06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrmezan06@gmail.com)](mailto:mrmezan06@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mejanur.mezan.3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mejanur.mezan.3)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MejanurMezan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%2300EA64?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mejanur-rahman-061998/)  &nbsp;
+[![Hackerrank Badge](https://img.shields.io/badge/-@Mejanur%20Rahman-%2300EA64?style=for-the-badge&labelColor=%230a360d&logo=hackerrank)](https://www.hackerrank.com/mrmezan06) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-mrmezan06@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mrmezan06@gmail.com)&nbsp; 
 ### Website
-- [![Portfolio Badge](https://img.shields.io/badge/-ShowCaseWebSite-orange?style=flat-square&logo=html5&logoColor=white&link=https://akash07105.netlify.app)](https://akash07105.netlify.app)
-- [![Portfolio Badge](https://img.shields.io/badge/-Krypto-blue?style=flat-square&logo=React&logoColor=white&link=https://krypto-ether.netlify.app/)](https://krypto-ether.netlify.app/)
-- [![Portfolio Badge](https://img.shields.io/badge/-Dashboard-green?style=flat-square&logo=React&logoColor=white&link=https://akash-dashboard.netlify.app/)](https://akash-dashboard.netlify.app/) 
-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=Javascript&logoColor=white&link=https://portfolio-mezan.ink)](https://portfolio-mezan.ink)
-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=HTML5&logoColor=white&link=https://mrmezan06.github.io)](https://mrmezan06.github.io)
-- [![Portfolio Badge](https://img.shields.io/badge/-Doctor_Appointment-orange?style=flat-square&logo=React&logoColor=white&link=https://doctor-call-healthy.herokuapp.com/)](https://doctor-call-healthy.herokuapp.com/)
-- [![Portfolio Badge](https://img.shields.io/badge/-MUI_Tailwind_Design-green?style=flat-square&logo=React&logoColor=white&link=https://mui-tailwind-design.netlify.app)](https://mui-tailwind-design.netlify.app)
-- [![Portfolio Badge](https://img.shields.io/badge/-Al_Quran-orange?style=flat-square&logo=PHP&logoColor=white&link=https://islamic-life.000webhostapp.com/)](https://islamic-life.000webhostapp.com/)
-- [![Portfolio Badge](https://img.shields.io/badge/-Al_Quran-orange?style=flat-square&logo=PHP&logoColor=white&link=http://bookszone.top/)](http://bookszone.top/)
+- [![Portfolio Badge](https://img.shields.io/badge/-ShowCaseWebSite-orange?style=for-the-badge&logo=html5&logoColor=white&link=https://akash07105.netlify.app)](https://akash07105.netlify.app)
+- [![Portfolio Badge](https://img.shields.io/badge/-Krypto-blue?style=for-the-badge&logo=React&logoColor=white&link=https://krypto-ether.netlify.app/)](https://krypto-ether.netlify.app/)
+- [![Portfolio Badge](https://img.shields.io/badge/-Dashboard-green?style=for-the-badge&logo=React&logoColor=white&link=https://akash-dashboard.netlify.app/)](https://akash-dashboard.netlify.app/) 
+- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=Javascript&logoColor=white&link=https://portfolio-mezan.ink)](https://portfolio-mezan.ink)
+- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=HTML5&logoColor=white&link=https://mrmezan06.github.io)](https://mrmezan06.github.io)
+- [![Portfolio Badge](https://img.shields.io/badge/-Doctor_Appointment-orange?style=for-the-badge&logo=React&logoColor=white&link=https://doctor-call-healthy.herokuapp.com/)](https://doctor-call-healthy.herokuapp.com/)
+- [![Portfolio Badge](https://img.shields.io/badge/-MUI_Tailwind_Design-green?style=for-the-badge&logo=React&logoColor=white&link=https://mui-tailwind-design.netlify.app)](https://mui-tailwind-design.netlify.app)
+- [![Portfolio Badge](https://img.shields.io/badge/-Al_Quran-orange?style=for-the-badge&logo=PHP&logoColor=white&link=https://islamic-life.000webhostapp.com/)](https://islamic-life.000webhostapp.com/)
+- [![Portfolio Badge](https://img.shields.io/badge/-Al_Quran-orange?style=for-the-badge&logo=PHP&logoColor=white&link=http://bookszone.top/)](http://bookszone.top/)
 
 
 ### About me :eyes:
