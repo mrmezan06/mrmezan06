@@ -99,7 +99,7 @@
 ## Laptop Configuration ![Laptop Configuration](https://img.shields.io/badge/Laptop-Configuration-brightgreen)
 
 [![Asus](https://img.shields.io/badge/RAM-8GB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/)
-[![Intel Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i7%208th%20Gen-%230071C5?style=for-the-badge&logo=intel&logoColor=%230071C5)](https://intel.com) &nbsp;
+[![Intel Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i7%206th%20Gen-%230071C5?style=for-the-badge&logo=intel&logoColor=%230071C5)](https://ark.intel.com/content/www/us/en/ark/products/88194/intel-core-i76500u-processor-4m-cache-up-to-3-10-ghz.html) &nbsp;
 [![RAM](https://img.shields.io/badge/RAM-8GB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
 [![HDD](https://img.shields.io/badge/HDD-7200RPM%202TB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
 [![SSD](https://img.shields.io/badge/SSD-128GB-brightgreen?style=for-the-badge&&logoColor=blue)](https://mrmezan06.github.io) &nbsp;
