@@ -79,7 +79,30 @@
 
 ## Portfolio ![Portfolio](https://img.shields.io/badge/Server-Running-brightgreen)
 
-[![Portfolio](https://img.shields.io/badge/Host-My%20Portfolio-brightgreen?style=for-the-badge)](https://portfolio-mezan.ink)
+[![Portfolio](https://img.shields.io/badge/Host-My%20Portfolio-brightgreen?style=for-the-badge)](https://portfolio-mezan.ink) &nbsp;
+
+## PC Configuration ![PC Configuration](https://img.shields.io/badge/PC-Configuration-brightgreen)
+
+[![AMD Processor](https://img.shields.io/badge/Processor-Amd%20Ryzen%205-orange?style=for-the-badge&logo=amd&logoColor=red)](https://mrmezan06.github.io) &nbsp;
+[![RAM](https://img.shields.io/badge/RAM-Corsair%2016GB-brightgreen?style=for-the-badge&logo=Corsair&logoColor=brightgreen)](https://mrmezan06.github.io) &nbsp;
+[![HDD](https://img.shields.io/badge/HDD-Seagate%207200RPM%202TB-brightgreen?style=for-the-badge&logo=Seagate&logoColor=%236EBE49)](https://mrmezan06.github.io) &nbsp;
+[![SSD](https://img.shields.io/badge/SSD-SAMSUNG%20256GB-%231572B6?style=for-the-badge&logo=SAMSUNG&logoColor=blue)](https://mrmezan06.github.io) &nbsp;
+[![Monitor](https://img.shields.io/badge/Monitor-SAMSUNG%204K%20Supported-%231572B6?style=for-the-badge&logo=SAMSUNG&logoColor=%231572B6)](https://mrmezan06.github.io) &nbsp;
+[![Keyboard](https://img.shields.io/badge/Keyboard-Poseidon|M3%20RGB-brightgreen?style=for-the-badge)](https://mrmezan06.github.io) &nbsp;
+[![Mouse](https://img.shields.io/badge/Mouse-GameDias%20RGB-brightgreen?style=for-the-badge)](https://mrmezan06.github.io) &nbsp;
+[![Headphone](https://img.shields.io/badge/Headphone-GameDias-brightgreen?style=for-the-badge)](https://mrmezan06.github.io) &nbsp;
+[![Headphone](https://img.shields.io/badge/Headphone-Wiresto-brightgreen?style=for-the-badge)](https://mrmezan06.github.io) &nbsp;
+[![Speaker](https://img.shields.io/badge/Speaker-Lenovo%20ThinkPlus-%23E2231A?style=for-the-badge&logo=Lenovo&logoColor=%23E2231A)](https://mrmezan06.github.io) &nbsp;
+[![Wireless](https://img.shields.io/badge/Wifi-TP%20LINK%20Adapter-%234ACBD6?style=for-the-badge&logo=TP-Link&logoColor=%234ACBD6)](https://mrmezan06.github.io) &nbsp;
+[![Bluetooth](https://img.shields.io/badge/Bluetooth-Bluetooth%20Adapter-%230082FC?style=for-the-badge&logo=bluetooth&logoColor=%230082FC)](https://mrmezan06.github.io) &nbsp;
+
+## Laptop Configuration ![Laptop Configuration](https://img.shields.io/badge/Laptop-Configuration-brightgreen)
+
+[![Asus](https://img.shields.io/badge/RAM-8GB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/)
+[![Intel Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i7%208th%20Gen-%230071C5?style=for-the-badge&logo=intel&logoColor=%230071C5)](https://intel.com) &nbsp;
+[![RAM](https://img.shields.io/badge/RAM-8GB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
+[![HDD](https://img.shields.io/badge/HDD-7200RPM%202TB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
+[![SSD](https://img.shields.io/badge/SSD-128GB-%231572B6?style=for-the-badge)]() &nbsp;
 
 ## Profile Summary
 
