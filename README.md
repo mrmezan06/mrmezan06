@@ -102,7 +102,7 @@
 [![Intel Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i7%208th%20Gen-%230071C5?style=for-the-badge&logo=intel&logoColor=%230071C5)](https://intel.com) &nbsp;
 [![RAM](https://img.shields.io/badge/RAM-8GB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
 [![HDD](https://img.shields.io/badge/HDD-7200RPM%202TB-brightgreen?style=for-the-badge&logo=Asus)](https://asus.com/bd/) &nbsp;
-[![SSD](https://img.shields.io/badge/SSD-128GB-%231572B6?style=for-the-badge)]() &nbsp;
+[![SSD](https://img.shields.io/badge/SSD-128GB-brightgreen?style=for-the-badge)]() &nbsp;
 
 ## Profile Summary
 
