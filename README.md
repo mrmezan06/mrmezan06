@@ -204,6 +204,7 @@
 * :heavy_check_mark: [Badges List](https://github.com/mrmezan06/Badges4-README.md-Profile)
 * [x] [Github Profile Summary Cards Design](https://github-profile-summary-cards.vercel.app/)
 * [x] [Custom Badge](https://shields.io/category/build)
+* [x] [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables#)
 
 ## Shorthand Escape Character Markdown Syntax
 
