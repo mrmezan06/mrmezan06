@@ -37,6 +37,7 @@
 [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](https://islamic-life.000webhostapp.com/)
 [![Ocean of Book](https://img.shields.io/badge/-Ocean%20Book-gray?logo=Node.js&logoColor=green)](http://ocean-book.cyclic.app/)
 [![](https://img.shields.io/badge/OpenAI-Live-brightgreen)](https://chat-gpt-ai.netlify.app/)
+[![](https://img.shields.io/badge/ProShop-Live-brightgreen)](https://proshop-inventory.netlify.app/)
 <!-- [![Al Quran](https://img.shields.io/badge/-Al%20Quran-blueviolet?logo=PHP&logoColor=white)](http://bookszone.top/) -->
 <br />
 
